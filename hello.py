@@ -1,0 +1,5 @@
+print('hello! liujiacheng')
+print('哈哈')
+print('你猜我想干啥？？')
+print('呃呃，')
+print('我也不知道。。。。')
