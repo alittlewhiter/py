@@ -7,7 +7,7 @@ f = lambda x: x
 # 通过继承Perceptron，实现线性单元
 class LinearUnit(Perceptron):
 	def __init__(self, input_num):	# 初始化线性单元，设置输入参数的个数
-		Perceptron.__init__(self, input_num):
+		Perceptron.__init__(self, input_num, f):
 
 # 模拟生成5个人的收入数据，用于训练输入
 def get_training_data():
